@@ -1,0 +1,8 @@
+#ifndef NATIVE_ELF_FORMAT_H_
+#define NATIVE_ELF_FORMAT_H_
+
+#cmakedefine ELFTC_CLASS @ELFTC_CLASS@
+#cmakedefine ELFTC_ARCH  @ELFTC_ARCH@
+#cmakedefine ELFTC_BYTEORDER @ELFTC_BYTEORDER@
+
+#endif /* NATIVE_ELF_FORMAT_H_ */
